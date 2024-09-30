@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silvestreEsteban my preferred name is Silvestre, but if you find that challenging to pronounce, I'm perfectly fine with Ves
+- 👋 Hi, I’m @silvestreEsteban. My preferred name is Silvestre, but if you find that challenging to pronounce, I'm perfectly fine with Ves
 - 👀 I’m interested in writing code, I find front-end more enjoyable but I am fond of the full-stack experience. Outside of programming, I'm a dedicated martial artist training in traditional Shotokan Karate, and dabbling in Jiu-Jitsu, and an avid video gamer!
 - 🌱 I’m currently learning PHP, Symfony
 - 📫 How to reach me @silvestrefernande.z on Instagram. Find me on LinkedIn - https://www.linkedin.com/in/silvestre-fernandez-1aaa0a2a9/
